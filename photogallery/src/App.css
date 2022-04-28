@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.body{
+  font-family: 'oswald';
+}
+.h1{
+  font-size: 14px;
+}
+
+p{
+  font-weight: 100;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+}
+
+#img{
+  margin:10px ;
+  margin-left: 30px;
+ 
+  object-fit: cover;
+}
+
+.hr{
+  margin: 20px25px;
+}
+
+#button{
+  margin-left: 600px;
+  margin-bottom: 15px;
+}
